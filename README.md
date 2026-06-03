@@ -24,7 +24,7 @@ TypeScript · Next.js · React · Vercel · AI/LLM APIs
 
 ---
 
-*Currently building tools that make endurance athletes smarter, faster, better.*## Hi there 👋
+*Currently building tools that make endurance athletes smarter, faster, better. 
 
 <!--
 **grospierre/grospierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
